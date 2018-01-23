@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/new_login_gradients" />
+
+    <item>
+        <bitmap
+            android:src="@drawable/pabicon"
+            android:gravity="center" />
+    </item>
+
+</layer-list>
